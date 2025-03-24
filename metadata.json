@@ -1,0 +1,6 @@
+{
+  "name": "smdGALA",
+  "symbol": "smdGALA",
+  "description": "$GALA wrapper on Solana",
+  "image": "https://static.gala.games/images/icons/units/gala.png"
+}
